@@ -1,0 +1,65 @@
+<!DOCTYPEhtml>
+<html lang="uk">
+<head>
+<title>Міфологія нашого краю</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="style.css">
+<img src="fon.jpg" 
+  width="1265"
+  height="150">
+</head>
+<body>
+
+<div id="wrap">
+ <ul class="navbar">
+  <li>
+  <a href="gol.html">Головна сторінка</a>
+  </li>
+  <li>
+ <a href="bb.html">Боги і богині</a>
+  <ul>
+  <li><a href="bb.html#dajbog" >Дажбог</a></li>
+  <li><a href="bb.html#perun" >Перун</a></li>
+  <li><a href="bb.html#lada" >Лада</a></li>
+  <li><a href="bb.html#svarog" >Сварог</a></li>
+  </ul>
+  </li>
+  <li>
+ <a href="dd.html" >Духи і демони</a>
+  <ul>
+  <li><a href="dd.html#mavky" >Мавки</a></li>
+  <li><a href="dd.html#chugaister" >Чугайстер</a></li>
+  <li><a href="dd.html#vodyanyk" >Водяник</a></li>
+  <li><a href="dd.html#rusalky" >Русалки</a></li>
+  </ul>
+  </li>
+  <li>
+  <a href="so.html" >Свята і обряди</a>
+  <ul>
+  <li><a href="so.html#kupala" >Купала</a></li>
+  <li><a href="so.html#kolyada" >Коляда</a></li>
+  <li><a href="so.html#vesnyanky" >Веснянки</a></li>
+  </ul>
+  </li>
+  <li>
+  <a href="mi.html" >Міфологічні істоти</a>
+  <ul>
+  <li><a href="mi.html#zmiy" >Змій</a></li>
+  <li><a href="mi.html#mara" >Мара</a></li>
+  <li><a href="mi.html#perelesnyk" >Перелесник</a></li>
+  <li><a href="mi.html#poludnycya" >Полудниця</a></li>
+  </ul>
+  </li>
+  
+  <li><a href="mk.html">Міфологія в культурі</a></li>
+    
+ </ul>
+ </div>
+<p></p>
+
+<footer>
+ <font size="2">
+<p>Архіпова, Котенко, Ткачук 2024</p>
+</footer>
+</body>
